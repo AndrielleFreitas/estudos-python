@@ -1,2 +1,16 @@
 # estudos-python
-Exercícios e projetos desenvolvidos durante as aulas de Programação Orientada a Objetos em Python.
+# Composição de Objetos
+
+Exercício desenvolvido na disciplina de Programação Orientada a Objetos.
+
+## Conceitos utilizados
+- Classes
+- Objetos
+- Construtores
+- Composição
+
+## Estrutura
+Uma Casa possui:
+- Quarto
+- Cozinha
+- Banheiro
